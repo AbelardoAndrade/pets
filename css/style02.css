@@ -1,0 +1,82 @@
+body {
+background-color: rgba(173, 216, 230, 0.733);
+}
+
+main {
+width: 120vh;
+text-align: center;
+align-items: center;
+margin: 1px auto 2px ;
+box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+height: 215vh;
+border: 1px solid aquamarine;
+border-radius: 3px;
+
+}
+
+h2 {
+padding: 15px;
+background-color: rgba(127, 255, 212, 0.527);
+font-family: 'Rubik Puddles', cursive;
+color: rgb(25, 196, 2);
+text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.705);
+font-size: 65px;
+}
+
+h4 {
+background-color: rgba(127, 255, 212, 0.432);
+align-items: center;
+text-align: center;
+width: 200px;
+margin: 5px auto;
+border: 1px solid aquamarine;
+border-radius: 4px 0px 4px;
+font-family: 'Rubik Bubbles', cursive;
+color: rgb(97, 190, 3);
+text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.705);
+font-size: 20px;
+padding: 3px;
+box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+}
+
+.biomusta {
+margin: 5px auto;
+text-align: justify;
+padding: 8px;
+font-family: 'Rubik Bubbles', cursive;
+color: rgb(0, 122, 163);
+}
+
+.biopeludo {
+margin: 5px auto;
+text-align: justify;
+padding: 8px;
+font-family: 'Rubik Bubbles', cursive;
+color: rgb(0, 122, 163);
+}
+
+div > footer {
+background-image: linear-gradient(to right, rgba(0, 139, 139, 0.692), rgba(0, 255, 255, 0.616), rgba(173, 216, 230, 0.603), rgba(211, 211, 211, 0.658));
+color: rgb(0, 60, 80);
+
+text-align: left;
+}
+
+.ftmusta {
+display: flex;
+width: 80vh;
+height: 60vh;
+margin: auto;
+border-radius: 8px;
+border: 1px solid aquamarine;
+text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.705);
+}
+
+.ftpeludo {
+display: flex;
+width: 80vh;
+height: 65vh;
+margin: auto;
+border-radius: 8px;
+border: 1px solid aquamarine;
+}

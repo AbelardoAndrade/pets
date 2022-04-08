@@ -1,0 +1,123 @@
+* {
+text-decoration: none;
+margin: 0%;
+list-style: none;
+}
+
+header {
+background-image: linear-gradient(to right, rgba(0, 139, 139, 0.692), rgba(0, 255, 255, 0.616), rgba(173, 216, 230, 0.603), rgba(211, 211, 211, 0.658));
+padding: 20px;
+}
+
+header > h1 {
+font-family: 'Rubik Puddles', cursive;
+font-size: 100px;
+font-weight: 50px;
+text-align: center;
+color: rgba(72, 255, 47, 0.753);
+text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.705);
+margin: auto;
+}
+
+header > p {
+text-align: center;
+padding: 5px;
+font-family: 'Rubik Bubbles', cursive;
+color: rgb(97, 190, 3);
+text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.705);
+font-weight: lighter;
+font-size: 20px;
+}
+
+nav {
+margin-top: 30px;
+margin-left: 20vh;
+text-align: center;
+font-weight: 10px;
+padding: 2px;
+display: inline-flex;
+}
+
+a {
+color: chartreuse;
+font-family: 'Rubik Bubbles', cursive;
+margin-right: 30px;
+font-size: 23px;
+text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.705);
+}
+
+
+.meushumanos > ul li {
+display: none;
+}
+
+nav:hover > .meushumanos ul li {
+display: block;
+} 
+
+.galeria > ul li {
+display: none;
+}
+
+nav:hover > .galeria ul li {
+display: block;
+} 
+
+.momentos > ul li {
+display: none;
+}
+
+nav:hover > .momentos ul li {
+display: block;
+} 
+
+.galeria > ul li {
+margin: 25px 0px -20px -65px;
+font-family: 'Rubik Bubbles', cursive;
+background-color: rgba(0, 225, 255, 0.5);
+width: 145px;
+padding: 3px;
+border-left: 4px;
+border-radius: 4px;
+border: 1px solid rgb(3, 196, 131);
+box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+color: chartreuse;
+text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.705);
+ }
+
+.galery {
+font-size: 16px;
+}
+.galery2 {
+font-size: 16px;
+
+
+}
+
+.meushumanos > ul li {
+margin: 25px 0px -20px -65px;
+font-family: 'Rubik Bubbles', cursive;
+background-color: rgba(0, 225, 255, 0.5);
+width: 100px;
+padding: 3px;
+border-left: 4px;
+border-radius: 4px;
+border: 1px solid rgb(3, 196, 131);
+box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+color: chartreuse;
+text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.705);
+}
+
+.momentos > ul li {
+margin: 25px 0px -20px -65px;
+font-family: 'Rubik Bubbles', cursive;
+background-color: rgba(0, 225, 255, 0.5);
+width: 180px;
+padding: 3px;
+border-left: 4px;
+border-radius: 4px;
+border: 1px solid rgb(3, 196, 131);
+box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+color: chartreuse;
+text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.705);
+}
